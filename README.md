@@ -18,6 +18,7 @@ Este repositorio sigue la estructura obligatoria definida para el desarrollo del
 * **`/minutes/`**: Contiene las actas de las diferentes reuniones del equipo y con el tutor, formateadas en Markdown.
 * **`/others/`**: Directorio reservado exclusivamente para plantillas, borradores o archivos adicionales que no pertenecen a las categorías anteriores.
 * **`/diagramas casos d'ús/`**: Directorio reservado exclusivamente para diagrams de casos de usos.
+* **`/taules de especificacions/`**: Directorio reservado exclusivamente para las tablas de especificacion.
 
 ## Herramientas y metodología
 * **Metodología:** Agile (Marco de trabajo SCRUM)
